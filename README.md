@@ -42,3 +42,8 @@ These pages use the sidebar navigation to analyze trends by Period, Segment, Cou
 **Units Sold Page:** Tracks sales volume by period and country (Canada, France, USA leading) and confirms the Government segment and Paseo product as volume leaders.
 
 **COGS Page:** Analyzes cost trends, showing the USA leads in total Cost of Goods and the Government segment drives the highest COGS volume.
+
+### 5. Screenshot
+
+<img width="838" height="461" alt="image" src="https://github.com/user-attachments/assets/c6401d9c-afbc-4895-a225-7d8e258da872" />
+
